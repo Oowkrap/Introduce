@@ -1,2 +1,2 @@
 # Introduce
-![Cv](https://github.com/Oowkrap/Introduce/blob/master/Cv.png)
+![cv](https://github.com/Oowkrap/Introduce/blob/master/cv.png)
